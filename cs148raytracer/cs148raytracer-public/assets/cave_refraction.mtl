@@ -1,0 +1,94 @@
+newmtl RockFBXASC032CrystalFBXASC032InceptionFBXASC032MirrorSG
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.24 0.24 0.24
+Ns 30.00
+newmtl RockFBXASC032CrystalFBXASC032InceptionFBXASC032MirrorSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 2.19 2.19 2.19
+Ns 1022.00
+newmtl RockFBXASC032CrystalFBXASC032InceptionFBXASC032MirrorSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns -1.00
+newmtl RockFBXASC032CrystalFBXASC032InceptionFBXASC032MirrorSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.11 0.11 0.11
+Ni 1.00
+Ks 10.00 10.00 10.00
+Ns 1022.00
+newmtl RockFBXASC032CrystalFBXASC032InceptionFBXASC032MirrorSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.19 0.19 0.19
+Ni 1.00
+Ks 1.07 1.07 1.07
+Ns 722.08
+newmtl RockFBXASC032CrystalFBXASC032InceptionFBXASC032MirrorSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.01 0.01
+Ns 30.00
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textures_iceground1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 1.00 0.00
+Tf 0.86 0.86 0.86
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl initialShadingGroup
+illum 4
+Kd 0.42 0.42 0.42
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lily:wire_228153184
+illum 4
+Kd 0.89 0.60 0.72
+Ka 0.89 0.60 0.72
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl raytracer_icecave:raytracer_icecave:blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ice-cave-3d-model-low-poly-max-obj-3ds-fbx-c4d-ma-mb.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl raytracer_icecave:raytracer_icecave:char_female_1027_meya:material_0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd char_female_tex.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 0.00

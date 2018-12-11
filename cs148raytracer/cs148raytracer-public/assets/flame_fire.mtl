@@ -1,0 +1,23 @@
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ice-cave-3d-model-low-poly-max-obj-3ds-fbx-c4d-ma-mb.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl char_female_1027_meya:material_0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd char_female_tex.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 0.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.42 0.42 0.42
+Ka 0.14 0.84 1.00
+Tf 0.41 0.41 0.41
+Ni 1.00
